@@ -1,0 +1,46 @@
+supplier_id,supplier_name,country_of_origin,lead_time_days,quality_score,tariff_exposure,min_order_qty,on_time_delivery_pct
+SUP001,Rodriguez Figueroa and Sanchez,India,31,93.2,21.8,50,98.6
+SUP002,Doyle Ltd,China,38,88.6,5.4,250,88.3
+SUP003,Mcclain Miller and Henderson,Germany,37,88.4,21.0,100,91.4
+SUP004,Davis and Sons,USA,4,95.7,0.0,50,94.9
+SUP005,Guzman Hoffman and Baldwin,USA,6,98.4,0.0,100,95.2
+SUP006,Gardner Robinson and Lawrence,USA,7,88.9,0.0,100,84.6
+SUP007,Blake and Sons,China,44,86.2,24.3,250,88.3
+SUP008,Henderson Ramirez and Lewis,Germany,25,89.0,5.4,50,93.4
+SUP009,Garcia-James,Mexico,25,85.9,18.3,250,96.1
+SUP010,Abbott-Munoz,South Korea,30,93.0,9.0,150,85.4
+SUP011,Blair PLC,USA,3,95.0,0.0,250,94.0
+SUP012,Dudley Group,India,34,82.7,15.3,100,83.9
+SUP013,Arnold Ltd,India,32,94.5,15.2,150,91.4
+SUP014,Mcclure Ward and Lee,India,40,88.3,3.2,50,85.6
+SUP015,Williams and Sons,South Korea,42,81.1,7.8,500,87.0
+SUP016,Galloway-Wyatt,Mexico,24,92.6,20.1,150,88.9
+SUP017,James Group,Mexico,25,81.7,3.0,250,89.9
+SUP018,Flowers Martin and Kelly,USA,6,89.5,0.0,500,93.8
+SUP019,Adams Zuniga and Wong,China,25,92.0,9.3,100,88.2
+SUP020,Reid Ferguson and Sanchez,USA,4,98.3,0.0,25,97.4
+SUP021,Gray-Mayo,Taiwan,27,94.8,24.3,50,89.6
+SUP022,Watts Robinson and Nguyen,USA,6,81.8,0.0,100,89.7
+SUP023,Perez Inc,USA,7,85.8,0.0,250,85.0
+SUP024,Morales-Jones,India,21,88.2,18.7,250,92.7
+SUP025,Walter Edwards and Rios,China,37,87.9,4.4,250,90.4
+SUP026,Wilkerson-Day,USA,3,82.7,0.0,250,92.0
+SUP027,Baker and Sons,USA,3,97.6,0.0,500,87.9
+SUP028,Hoffman Baker and Richards,India,28,89.2,24.1,25,95.3
+SUP029,Ross Robinson and Bright,USA,4,89.3,0.0,100,97.9
+SUP030,Snyder Campos and Callahan,India,32,86.3,8.5,150,89.5
+SUP031,Burton Ltd,USA,5,95.7,0.0,25,84.4
+SUP032,Carlson-Cruz,South Korea,28,85.3,17.6,25,93.2
+SUP033,Ferrell Rice and Maddox,South Korea,40,97.4,4.9,500,82.6
+SUP034,Frazier Inc,Mexico,34,95.4,21.2,100,87.4
+SUP035,Dyer Potter and Mack,India,28,84.9,14.1,500,84.8
+SUP036,Rodriguez-Graham,USA,7,88.3,0.0,500,97.2
+SUP037,Smith-Bowen,South Korea,42,89.9,22.6,500,87.4
+SUP038,Baker Mason and White,Taiwan,37,81.8,10.9,250,86.5
+SUP039,Harrell LLC,Germany,44,95.8,5.3,50,84.6
+SUP040,Romero Gonzalez and Brooks,USA,4,96.6,0.0,150,85.3
+SUP041,Ryan PLC,USA,7,98.5,0.0,250,90.5
+SUP042,George Group,USA,7,84.4,0.0,25,84.2
+SUP043,Rodriguez LLC,South Korea,24,93.2,13.9,250,85.4
+SUP044,Allen-Allen,India,21,82.5,19.1,250,84.1
+SUP045,Arroyo Miller and Tucker,China,30,89.3,9.3,150,98.2
